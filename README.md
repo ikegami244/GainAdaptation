@@ -11,6 +11,8 @@ Phase:		     experimet phase (1 = training, 2 = generalization, 3 = post-general
 
 TrialType:		 trial type (1 = training trial, 2 = probe trial)
 
+Feedback:     	feedback type (1 = EC, 2 = ET, 3= R)
+
 Gain:  		     visuomotor gain (increased slowly from 1 to 1.33 in increments of 0.167 every 15 trials)
 
 Target: 		   target direction: 0° (forward reaching direction), ±22.5°, ±45°, ±90°, and 180° (positive angles defined as clockwise)
