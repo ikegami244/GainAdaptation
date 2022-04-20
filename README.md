@@ -18,3 +18,6 @@ Target: 		   target direction: 0° (forward reaching direction), ±22.5°, ±45�
 ReachDistance: hand reach distance (cm)
 
 ExcludedTrial: trials excluded from the analysis of generalization function (0 = included trial; 1 = excluded trial)
+
+※ Exclusion criterion:
+For each triplet of the generalization phase (2 training trials followed by a probe trial), if the cursor on the second training trial failed to land on the target, the probe trial was excluded from the analysis.
